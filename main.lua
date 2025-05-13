@@ -74,3 +74,5 @@ interval_webhook = 30
 -- ini interval waktu untuk update pengiriman webhook
 -- Contoh: interval_webhook = 30, itu untuk 30 menit, kalau 1 jam berarti 60, intinya 1 itu sama dengan 1 menit
 -- this is the time interval for webhook delivery updates
+
+-- kamu bisa taruh semua logic langsung di sini atau import manual dari file lain
